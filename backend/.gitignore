@@ -1,6 +1,9 @@
 node_modules
 data/
 *.csv
-
+*.xlsx
+*.zip
+*.tar
+*.gz
+*.log
 *.env
-
