@@ -8,6 +8,7 @@ HotspotIQ is an enterprise-grade Smart City Geospatial Traffic Analytics & Tacti
 
 The application is structured as a decoupled monorepo containing an optimized Node.js analytical data pipeline engine and a highly responsive React/Vite dashboard interface.
 
+```text
 HotspotIQ/
 ├── backend/               # Node.js REST API & Data Engine
 │   ├── controllers/      # Route logic handlers
