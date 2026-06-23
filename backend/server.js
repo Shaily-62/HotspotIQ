@@ -17,7 +17,7 @@ app.use('/api/dashboard', dashboardRoutes);
 app.use('/api/hotspots', hotspotRoutes);
 app.use('/api/recommendations', recommendationRoutes);
 app.use('/api/analytics', analyticsRoutes)
-app.use('/api/locations',locationRoutes)
+app.use('/api/locations', locationRoutes)
 
 //health route
 app.get("/", (req, res) => {
@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`server running on port ${port}`);
+  console.log(`server running on port ${port}`);
 })
 
 //error handling middleware
