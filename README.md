@@ -1,4 +1,4 @@
-# 🚦(HotspotIQ)
+# 🚦HotspotIQ
 
 HotspotIQ is an enterprise-grade Smart City Geospatial Traffic Analytics & Tactical Enforcement Dispatch platform. The system ingests large-scale traffic telemetry and localized citation data to compute real-time congestion scores, detect infrastructure hazards, identify repeat offenders, and generate automated tactical operator protocols for emergency dispatch interception.
 
